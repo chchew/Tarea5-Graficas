@@ -1,5 +1,5 @@
 #Universidad del Valle de Guatemala
-#CARLOS CHEW - 17507
+#CARLOS CHEW - 17507 .
 
 from BMP import BMP
 from OBJ import OBJ
